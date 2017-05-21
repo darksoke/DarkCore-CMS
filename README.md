@@ -1,11 +1,15 @@
 # DarkCore-CMS
 This is a Trinitycore Website CMS under development<br>
 Author: <a href="https://github.com/darksoke">Darksoke</a><br>
-Contributors: <a href="https://github.com/demonreborn">Demonreborn<a>,<a href="https://github.com/ProjectcoreDevs">ProjectcoreDevs<a>, <a href="https://github.com/lashia">lashia</a><br>
-DEMO: http://wowbattler.com/<br>
+Contributors: <a href="https://github.com/demonreborn">Demonreborn<a>,<a href="https://github.com/ProjectcoreDevs">ProjectcoreDevs<a>, <a href="https://github.com/lashia">lashia</a>, <a href="https://github.com/alexandre433">SkyLiner</a><br>
 Web: http://mmltools.com<br>
 Description: This website started as a PHP learning atempt but it received a really nice feedback about it's look so I decided to release it for public use and work along with other developers to make a brand new professional FREE TRINITYCORE CMS<br><br>
-
+#Rewrite code
+<ul>
+    <li>-Fixed Login module and functions</li>
+    <li>-Fixed Registration module and functions</li>
+    <li>-Fixed news module and functions</li>
+</ul>
 #To Do
 <ul>
     <li>Cms is missing the most important part , it's hearth by that I mean we are going to create soon an administration panel</li>
